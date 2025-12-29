@@ -48,6 +48,33 @@ Me considero una persona responsable, orientada al aprendizaje continuo y con bu
 > 🎯 **Ruta sugerida:** Google IT → A+ → ITIL → Microsoft 365 → CCNA → Security+
 
 ---
+## 🧾 **Responsabilidades que puedo asumir**
+- Atención al usuario presencial o remota
+- Instalación física y lógica de equipos TI
+- Configuración de red local y dispositivos
+- Gestión de cuentas, permisos y políticas
+- Preparación de PCs para onboarding de personal
+- Soporte a software interno / ofimática
+- Control de inventario de equipos TI
+- Documentación de incidencias y soluciones
+- Automatización de tareas repetitivas con scripts
+
+---
+
+## 💬 **Habilidades Blandas (Soft Skills)**
+- Comunicación clara y respeto
+- Organización y manejo del tiempo
+- Resolución de problemas bajo presión
+- Trabajo en equipo & aprendizaje continuo
+- Adaptabilidad al cambio
+- Atención al cliente & empatía
+
+---
+
+## 🎯 **Objetivo Profesional**
+> Consolidarme como **especialista en Soporte Técnico TI** y continuar mi ruta hacia **Administración de Redes / Ciberseguridad**, aportando al funcionamiento estable y seguro de los sistemas internos de una organización.
+
+---
 
 ## 🌐 Redes Sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/GustavoSanx) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gus_sv05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavosanchezvillalva20) 
