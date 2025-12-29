@@ -33,6 +33,22 @@ Me considero una persona responsable, orientada al aprendizaje continuo y con bu
 
 ---
 
+## 🏅 **Certificaciones / Insignias Relevantes**
+> *(algunas en proceso recomendado para tu ruta de crecimiento)*
+
+| Certificación | Enfoque | Estado |
+|---------------|--------|--------|
+| **Google IT Support Professional** | Bases sólidas para Soporte TI | Recomendado iniciar |
+| **CompTIA A+** | Soporte técnico / hardware | Meta 2025 |
+| **ITIL v4 Foundations** | Gestión de servicios TI | Meta 2025 |
+| **Microsoft 365 Fundamentals (MS-900)** | Administración y cloud Microsoft | Pendiente |
+| **Cisco CCNA** | Redes profesionales | Para futuro |
+| **Azure / AWS Fundamentals** | Cloud inicial | Interés |
+
+> 🎯 **Ruta sugerida:** Google IT → A+ → ITIL → Microsoft 365 → CCNA → Security+
+
+---
+
 ## 🌐 Redes Sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/GustavoSanx) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gus_sv05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavosanchezvillalva20) 
 
