@@ -2,7 +2,7 @@
 
 ¡Hola! Soy **Luis Gustavo Sanchez Villalva** 👋  
 
-Soy **Bachiller en Ingeniería de Sistemas** con experiencia en **soporte técnico, mantenimiento de equipos e infraestructura básica de TI**. Me apasiona la tecnología y disfruto resolver incidencias para asegurar que los usuarios trabajen de manera eficiente y sin interrupciones.
+Soy **Bachiller en Ingeniería de Sistemas** con experiencia en **soporte técnico, mantenimiento de equipos e infraestructura básica de TI**. Actualmente tengo 21 años de edad, me apasiona la tecnología y disfruto resolver incidencias para asegurar que los usuarios trabajen de manera eficiente y sin interrupciones.
 
 He brindado soporte en distintas áreas realizando mantenimiento preventivo y correctivo, configuración de equipos, diagnóstico de fallas y administración básica de redes. También desarrollé soluciones internas como sistemas de inventario e incidencias, mejorando la gestión de activos tecnológicos.
 
