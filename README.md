@@ -1,6 +1,35 @@
-# 💫 Un poco sobre Mí:
-¡Hola! Soy Luis Gustavo Sanchez Villalva 👋<br><br>Soy un estudiante de Ingeniería de Sistemas apasionado por la tecnología, actualmente cursando el IX ciclo de la carrera. Con solo 20 años, me he dedicado a aprender y aplicar mis conocimientos en proyectos personales y colaborativos, buscando siempre aportar soluciones prácticas e innovadoras a problemas reales.<br><br>Mi enfoque principal es el desarrollo web y el diseño de soluciones tecnológicas que combinen funcionalidad, estética y eficiencia. Estoy comprometido con mi crecimiento profesional y siempre dispuesto a aprender nuevas herramientas, lenguajes y metodologías para mantenerme actualizado en este dinámico mundo tecnológico.<br><br>Además, valoro profundamente el trabajo en equipo, la comunicación efectiva y la adaptabilidad, cualidades que considero esenciales para enfrentar los desafíos modernos. Estoy buscando oportunidades para colaborar en proyectos interesantes, contribuir con mis habilidades y seguir aprendiendo de profesionales con experiencia.<br><br>Cuando no estoy programando, disfruto explorando nuevas tecnologías, diseñando interfaces, y desarrollando ideas que pueden tener un impacto positivo en la vida de las personas. <br><br>🚀 Mis habilidades técnicas:<br>- Desarrollo web y backend: Laravel, PHP, JavaScript, HTML, CSS.<br>- Bases de datos: MySQL, SQL Server (básico).<br>- Lenguajes de programación: Java, Python.<br>- Herramientas y plataformas: Firebase, Power BI, Figma.<br><br>🌟 Habilidades blandas:<br>- Trabajo en equipo.<br>- Comunicación efectiva.<br>- Resolución de problemas.<br>- Adaptabilidad al cambio.<br>- Pensamiento crítico.<br>- Organización y manejo del tiempo.<br>- Proactividad.<br><br>¿Tienes algún proyecto en mente o buscas colaboración? ¡No dudes en contactarme! 😊
+# 💫 Un poco sobre mí
 
+¡Hola! Soy **Luis Gustavo Sanchez Villalva** 👋  
+
+Soy **Bachiller en Ingeniería de Sistemas** con experiencia en **soporte técnico, mantenimiento de equipos e infraestructura básica de TI**. Me apasiona la tecnología y disfruto resolver incidencias para asegurar que los usuarios trabajen de manera eficiente y sin interrupciones.
+
+He brindado soporte en distintas áreas realizando mantenimiento preventivo y correctivo, configuración de equipos, diagnóstico de fallas y administración básica de redes. También desarrollé soluciones internas como sistemas de inventario e incidencias, mejorando la gestión de activos tecnológicos.
+
+Me considero una persona responsable, orientada al aprendizaje continuo y con buena disposición para trabajar en equipo. Mi objetivo es seguir creciendo profesionalmente en el área de **Soporte TI / Help Desk / Redes**, aportando soluciones prácticas y eficientes.
+
+---
+
+## 🚀 Mis habilidades técnicas
+
+- **Soporte TI & Help Desk:** resolución de incidencias, atención al usuario, configuración de equipos.
+- **Hardware:** mantenimiento de PCs, impresoras, DVR, UPS, diagnóstico de fallas.
+- **Redes:** cableado estructurado básico, topologías, configuración inicial de routers y switches.
+- **Sistemas Operativos:** Windows (intermedio–avanzado), Linux básico.
+- **Inventariado & control:** registro de activos tecnológicos e incidencias.
+- **Tecnologías adicionales:** PHP, HTML, CSS, MySQL, Firebase, Power BI, Figma.
+
+---
+
+## 🌟 Habilidades blandas
+
+- Trabajo en equipo  
+- Comunicación efectiva  
+- Resolución de problemas  
+- Adaptabilidad al cambio  
+- Organización y manejo del tiempo  
+- Pensamiento crítico  
+- Proactividad 
 
 ## 🌐 Redes Sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/GustavoSanx) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gus_sv05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavosanchezvillalva20) 
