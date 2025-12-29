@@ -2,11 +2,11 @@
 
 ¡Hola! Soy **Luis Gustavo Sanchez Villalva** 👋  
 
-Soy **Bachiller en Ingeniería de Sistemas** con experiencia en **soporte técnico, mantenimiento de equipos e infraestructura básica de TI**. Actualmente tengo 21 años de edad, me apasiona la tecnología y disfruto resolver incidencias para asegurar que los usuarios trabajen de manera eficiente y sin interrupciones.
+Soy **Bachiller en Ingeniería de Sistemas** con experiencia en **soporte técnico, mantenimiento de equipos, infraestructura básica de TI y desarrollo de soluciones internas**. Actualemnte tengo 21 años de edad, me apasiona la tecnología y disfruto resolver incidencias para asegurar que los usuarios trabajen de manera eficiente y sin interrupciones.
 
-He brindado soporte en distintas áreas realizando mantenimiento preventivo y correctivo, configuración de equipos, diagnóstico de fallas y administración básica de redes. También desarrollé soluciones internas como sistemas de inventario e incidencias, mejorando la gestión de activos tecnológicos.
+He brindado soporte en distintas áreas realizando mantenimiento preventivo y correctivo, configuración de equipos, diagnóstico de fallas y administración básica de redes. Además, he desarrollado sistemas y herramientas internas que optimizan el trabajo del área de TI, especialmente en inventariado y seguimiento de incidencias.
 
-Me considero una persona responsable, orientada al aprendizaje continuo y con buena disposición para trabajar en equipo. Mi objetivo es seguir creciendo profesionalmente en el área de **Soporte TI / Help Desk / Redes**, aportando soluciones prácticas y eficientes.
+Me considero una persona responsable, orientada al aprendizaje continuo y con buena disposición para trabajar en equipo. Mi objetivo es seguir creciendo profesionalmente en el área de **Soporte TI / Help Desk / Redes**, aportando soluciones prácticas y eficientes, sin dejar de lado el desarrollo de herramientas que faciliten la gestión tecnológica.
 
 ---
 
@@ -17,7 +17,7 @@ Me considero una persona responsable, orientada al aprendizaje continuo y con bu
 - **Redes:** cableado estructurado básico, topologías, configuración inicial de routers y switches.
 - **Sistemas Operativos:** Windows (intermedio–avanzado), Linux básico.
 - **Inventariado & control:** registro de activos tecnológicos e incidencias.
-- **Tecnologías adicionales:** PHP, HTML, CSS, MySQL, Firebase, Power BI, Figma.
+- **Tecnologías adicionales (desarrollo):** PHP, HTML, CSS, JavaScript, MySQL, Firebase, Power BI, Figma.
 
 ---
 
@@ -29,7 +29,9 @@ Me considero una persona responsable, orientada al aprendizaje continuo y con bu
 - Adaptabilidad al cambio  
 - Organización y manejo del tiempo  
 - Pensamiento crítico  
-- Proactividad 
+- Proactividad  
+
+---
 
 ## 🌐 Redes Sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/GustavoSanx) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gus_sv05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavosanchezvillalva20) 
